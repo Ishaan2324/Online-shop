@@ -1,1 +1,2 @@
 This is pricing text
+Discount is 10% now .
